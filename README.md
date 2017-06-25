@@ -32,5 +32,5 @@ Install Process:
 		
 Add:
 	
-	#) Import taskinformation.sql file in your Database
+	#) Import task.sql file in your Database
 		
