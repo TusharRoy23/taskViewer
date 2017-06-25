@@ -29,3 +29,8 @@ Install Process:
 		TO
 		$config['base_url'] = 'http://YourServer/taskViewer';
 		
+		
+Add:
+	
+	#) Import .sql file in your Database
+		
