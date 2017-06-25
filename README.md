@@ -19,3 +19,13 @@ Framkwork:
 Language:
 
 	#) PHP
+	
+Install Process:
+
+	1) Just Replace the application folder with codeigniter (Version 3.1.4).
+	
+	2) Change localhost to your server in application/config/config.php . Ex:
+		$config['base_url'] = 'http://localhost/taskViewer';
+		TO
+		$config['base_url'] = 'http://YourServer/taskViewer';
+		
