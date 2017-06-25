@@ -111,7 +111,6 @@
 					$task_form = array(
 							'name' => $task_name,
 							'description' => $task_description,
-							'dateCreated' => $date,
 							'dateUpdated' => $date
 						);
 
