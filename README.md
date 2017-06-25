@@ -22,7 +22,7 @@ Language:
 	
 Install Process:
 
-	1) Just Replace the application folder with codeigniter (Version 3.1.4).
+	1) Just Replace the Application folder with your codeigniter's (Version 3.1.4) Application folder.
 	
 	2) Change localhost to your server in application/config/config.php . Ex:
 		$config['base_url'] = 'http://localhost/taskViewer';
@@ -32,5 +32,5 @@ Install Process:
 		
 Add:
 	
-	#) Import .sql file in your Database
+	#) Import taskinformation.sql file in your Database
 		
